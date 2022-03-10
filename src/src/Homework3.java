@@ -24,10 +24,10 @@ public class Homework3 {
         //convert K to C
         double k2Temp = 300;
         double c2Temp = k2Temp - 273.15;
-        System.out.println(+k2Temp + " degrees K is equal to " + c2Temp + " degrees C");
+        System.out.println(+k2Temp + " degrees K is equal to " + c2Temp + " degreesC");
 
         //convert K to F
         double f2Temp = (((k2Temp - 273.15)* (1.8))+32);
-        System.out.println(+k2Temp + " degrees K is equal to " + f2Temp + " degrees F");
+        System.out.println(+k2Temp + " degrees K is equal to " + f2Temp + " degreesF");
     }
 }
