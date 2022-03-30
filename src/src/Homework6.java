@@ -53,6 +53,7 @@ public class Homework6 {
         magaAbbreviation = magaAbbreviation.trim();
         System.out.println(sentence2+" -- Reversed is ---> "+magaAbbreviation);
 
+
         /**
          * Q3:
          * Convert the String value in to Titlecase
