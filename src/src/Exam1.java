@@ -53,7 +53,7 @@ public class Exam1 {
     public static int[] removeNumberFromArray (int[] numberArray, int input){
         int number=0;
         for (int i = 0; i < numberArray.length; i++) {
-            if (input != numberArray[i]) {
+    if (input != numberArray[i]) {
                 number++;
             }
         }
