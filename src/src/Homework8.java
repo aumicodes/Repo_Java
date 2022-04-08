@@ -29,8 +29,6 @@ import java.util.Date;
     public class Homework8 {
         public static void main(String[] args) {
             timeLine1(11);
-
-//        timeLine(5);
         }
 
         public static void timeLine1(int timeInput) {
